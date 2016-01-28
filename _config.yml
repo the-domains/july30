@@ -1,0 +1,28 @@
+name: july30
+favicon: null
+layout_spectrum: 0.6129918186925352
+typography_spectrum: 0.32584834145382047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.17547329748049378
+  lightness: 0.2863459321670234
+  saturation: 0.17852588719688356
+  rhythmicContrast: 0.040093994699418545
+purpose: []
