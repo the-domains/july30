@@ -1,29 +1,41 @@
-name: july30
-favicon: null
-layout_spectrum: 0.6129918186925352
-typography_spectrum: 0.32584834145382047
 title: "kev & lisa's wedding thang"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1785258871968836
+  brandStrength: 0.9139785
+  lightness: 0.9375
   brandColors:
     - '#ffffff'
     - '#2a3a2f'
     - '#101a12'
     - '#afb1b0'
     - '#878b74'
-  brandStrength: 0.17547329748049378
-  lightness: 0.9375
-  saturation: 0.17852588719688356
-  rhythmicContrast: 0.040093994699418545
-purpose: []
+  rhythmicContrast: 0.04009399469941854
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: july30
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3258483414538205
+layout_spectrum: 1
